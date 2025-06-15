@@ -1,5 +1,7 @@
 # Mismatch-Tolerant SNNs
 
+<img src="figs/architecture.png" height=250>
+
 This repository contains the code used in ["Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing"](https://arxiv.org/abs/2410.19403).
 
 ---
